@@ -7,10 +7,11 @@ assignees: ''
 
 ---
 
-> Hight risk defects are to be discussed with organizations first then reported here for public discussion and analysis
-
 **Organization:**
 - Name the organization in charge
+
+**Component:**
+- Component where the failure is manifesting
 
 **Description:**
 - Describe the problem
@@ -24,16 +25,16 @@ assignees: ''
 - C
 
 **Expected behavior:**
-- A clear and concise description of what you expected to happen.
+- What you expected to happen
+
+**Evidence:**
+- Screenshots, videos, logs, etc.
 
 **Environment:**
  - Device: [xyz v0.0.0]
  - Operating system: [xyz v0.0.0]
  - Browser: [xyz v0.0.0]
  - Version: [xyz v0.0.0]
-
-**Screenshots:**
-- If applicable, add screenshots to help explain your problem.
 
 **Possible solutions:**
 - A
