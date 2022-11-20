@@ -2,4 +2,4 @@
 
 > A collection of bug reports for projects that don't have a public repository
 
-[See issues](./issues)
+See issues
