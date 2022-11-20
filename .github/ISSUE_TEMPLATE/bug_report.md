@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- High risk defects are discussed with organization first then reported here for educational purposes, public discussion, and analysis -->
+
 **Organization:**
 - Name the organization in charge
 
