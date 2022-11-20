@@ -7,27 +7,35 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+> Hight risk defects are to be discussed with organizations first then reported here for public discussion and analysis
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Organization:**
+- Name the organization in charge
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Description:**
+- Describe the problem
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Context/Preconditions:**
+- Describe the conditions necessary for this problem to occur
 
-**Environment**
+**Steps to reproduce:**
+- A
+- B
+- C
+
+**Expected behavior:**
+- A clear and concise description of what you expected to happen.
+
+**Environment:**
  - Device: [xyz v0.0.0]
  - Operating system: [xyz v0.0.0]
  - Browser: [xyz v0.0.0]
  - Version: [xyz v0.0.0]
 
-**Additional context**
-Add any other context about the problem here.
+**Screenshots:**
+- If applicable, add screenshots to help explain your problem.
+
+**Possible solutions:**
+- A
+- B
+- C
